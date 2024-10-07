@@ -1,0 +1,1 @@
+criaCartao(catagoria,pergunta,resposta)
